@@ -1,2 +1,2 @@
-# AutoStockTradingReport
-Auto Stock Trading Report
+# AutoTradeReport
+AutoTradeReport
